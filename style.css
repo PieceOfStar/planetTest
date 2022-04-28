@@ -5,12 +5,22 @@ article{
     flex-direction: column;
 }
 
+.progress{
+    margin-top: 100px;
+}
+
 .start{
     font-family: 'Black Han Sans', sans-serif;
 }
 .question{
     display: none;
     font-family: 'Do Hyeon', sans-serif;
+}
+
+.explain{
+    height: 120px;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .result {
