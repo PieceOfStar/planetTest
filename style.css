@@ -1,13 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
+
 article{
     display: flex;
     flex-direction: column;
 }
+
+.start{
+    font-family: 'Black Han Sans', sans-serif;
+}
 .question{
     display: none;
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 .result {
     display: none;
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 #img {
