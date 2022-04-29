@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
 
+
 article{
     display: flex;
     flex-direction: column;
@@ -38,11 +39,16 @@ article{
 }
 
 .resultBtn {
-    flex:1;
+    flex:none;
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
 }
 
-.replay{
-    width: 50%;
+.maker{
+    margin-top: 50px;
+    font-size: 12px;
+    color: rgb(70, 70, 70);
 }
 
 #img {
