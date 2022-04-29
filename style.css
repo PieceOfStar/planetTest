@@ -10,8 +10,8 @@ article{
     padding: 500px;
 }
 
-.progress{
-    margin-top: 100px;
+.pgrNum{
+    margin-top: 50px;
 }
 
 .start{
@@ -30,12 +30,19 @@ article{
     height: 120px;
     margin-top: 50px;
     margin-bottom: 100px;
-    font-size: medium;
 }
 
 .result {
     display: none;
     font-family: 'Do Hyeon', sans-serif;
+}
+
+.resultBtn {
+    flex:1;
+}
+
+.replay{
+    width: 50%;
 }
 
 #img {
