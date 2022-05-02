@@ -56,6 +56,10 @@ article{
 #copy{
     width: 350px;
 }
+#go{
+    width:350px;
+    margin-top: 7px;
+}
 
 .maker{
     margin-top: 50px;
