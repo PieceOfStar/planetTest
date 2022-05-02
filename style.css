@@ -51,6 +51,14 @@ article{
     color: rgb(70, 70, 70);
 }
 
+#title{
+    font-weight: bold;
+}
+
+#planet{
+    font-weight: bold;
+}
+
 #img {
     width : 250px;
     height : 250px;
