@@ -12,7 +12,7 @@ article{
 }
 
 .pgrNum{
-    margin-top: 50px;
+    font-family: 'Gowun Dodum', sans-serif;
 }
 
 .start{
@@ -25,17 +25,18 @@ article{
 .question{
     display: none;
     font-family: 'Gowun Dodum', sans-serif;
+    margin-top: 30px;
 }
 
 .explain{
     height: 120px;
     margin-top: 50px;
-    margin-bottom: 100px;
 }
 
 .result {
     display: none;
     font-family: 'Gowun Dodum', sans-serif;
+    margin-top: 20px;
 }
 
 .resultBtn {
@@ -59,21 +60,30 @@ article{
     font-weight: bold;
 }
 
+#bestt{
+    float: left;
+}
+
+#worstt{
+    margin-left: 15px;
+    float: right;
+}
+
 #img {
-    width : 250px;
-    height : 250px;
+    width : 200px;
+    height : 200px;
     margin : 0 auto;
     border-radius: 70%;
 }
 #best-img{
-    width : 150px;
-    height : 150px;
+    width : 120px;
+    height : 120px;
     border-radius: 70%;
     margin: 0 auto;
 }
 #worst-img{
-    width : 150px;
-    height : 150px;
+    width : 120px;
+    height : 120px;
     border-radius: 70%;
     margin: 0 auto;
 }
