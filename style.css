@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gowun+Dodum&display=swap');
 
 
 article{
@@ -24,7 +24,7 @@ article{
 }
 .question{
     display: none;
-    font-family :'Do Hyeon', sans-serif;
+    font-family: 'Gowun Dodum', sans-serif;
 }
 
 .explain{
@@ -35,7 +35,7 @@ article{
 
 .result {
     display: none;
-    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Gowun Dodum', sans-serif;
 }
 
 .resultBtn {
@@ -52,16 +52,22 @@ article{
 }
 
 #img {
-    width : 300px;
-    height : 300px;
+    width : 250px;
+    height : 250px;
     margin : 0 auto;
-    border-radius: 60%;
+    border-radius: 70%;
 }
 #best-img{
-    border-radius: 60%;
+    width : 150px;
+    height : 150px;
+    border-radius: 70%;
+    margin: 0 auto;
 }
 #worst-img{
-    border-radius: 60%;
+    width : 150px;
+    height : 150px;
+    border-radius: 70%;
+    margin: 0 auto;
 }
 .border{
     padding: 20px;
