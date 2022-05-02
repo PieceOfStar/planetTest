@@ -26,6 +26,7 @@ article{
     display: none;
     font-family: 'Gowun Dodum', sans-serif;
     margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .explain{
@@ -38,6 +39,7 @@ article{
     display: none;
     font-family: 'Gowun Dodum', sans-serif;
     margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 .resultBtn {
