@@ -31,6 +31,7 @@ article{
 .explain{
     height: 120px;
     margin-top: 50px;
+    margin-bottom: 200px;
 }
 
 .result {
@@ -58,15 +59,6 @@ article{
 
 #planet{
     font-weight: bold;
-}
-
-#bestt{
-    float: left;
-}
-
-#worstt{
-    margin-left: 15px;
-    float: right;
 }
 
 #img {
