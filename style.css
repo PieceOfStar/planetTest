@@ -31,7 +31,7 @@ article{
 .explain{
     height: 120px;
     margin-top: 50px;
-    margin-bottom: 200px;
+    margin-bottom: 110px;
 }
 
 .result {
@@ -51,6 +51,13 @@ article{
     margin-top: 50px;
     font-size: 12px;
     color: rgb(70, 70, 70);
+}
+
+#A{
+    height: 80px;
+}
+#B{
+    height: 80px;
 }
 
 #title{
@@ -85,5 +92,10 @@ article{
 
 .card{
     margin : 0 auto;
+}
 
+#logo{
+    width: 10%;
+    height: 10%;
+    margin-top: 20px;
 }
