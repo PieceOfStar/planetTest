@@ -49,7 +49,11 @@ article{
     text-align: center;
 }
 
-#replay, #copy{
+#replay{
+    margin-top: 30px;
+    width: 350px;
+}
+#copy{
     width: 350px;
 }
 
