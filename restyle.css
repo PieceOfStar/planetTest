@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gowun+Dodum&display=swap');
+
+
+div{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.planet{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+.explain{
+    font-size: 18px;
+    font-family: 'Gowun Dodum', sans-serif;
+}
